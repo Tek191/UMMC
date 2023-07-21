@@ -1,0 +1,16 @@
+name = "Universal Map Marker Colours";
+picture = "";
+actionName = "Visit UCA";
+action = "https://units.arma3.com/unit/universalcombinedarms";
+logo = "ummc.paa";
+logoSmall = "ummc_small.paa"
+logoOver = "ummc.paa";
+tooltip = "Universal Map Marker Colours";
+tooltipOwned = "";
+author = "UCA";
+overview = "Adds more colours for all your phaseline needs.";
+overviewPicture = "";
+overviewText = "";
+overviewFootnote = "";
+hideName	= 0;	// Hide the extension name
+hidePicture	= 0;	// Hide the extension menu
